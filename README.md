@@ -1,2 +1,2 @@
-# Co
+# Consumer Goods Anallysis Using SQL
 
